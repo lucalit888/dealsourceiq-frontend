@@ -1,5 +1,7 @@
 # DealSourceIQ Frontend
 
+<img width="1052" alt="Screenshot 2025-02-09 at 2 45 32 PM" src="https://github.com/user-attachments/assets/b8a1b3f2-616d-4be4-a9e4-6bbcb28c0970" />
+
 **[DealSourceIQ](https://graceful-lily-43da2a.netlify.app/)** is a web application prototype designed for private equity firms to search for acquisition targets, analyze company data, and save search filters. The eventual goal is to automate creation of email templates, and enable reach outs directly through the UI. Built with React, TypeScript, and TailwindCSS, it integrates seamlessly with Supabase for backend services and Vite for fast development.
 
 ---
